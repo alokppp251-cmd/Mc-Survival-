@@ -82,7 +82,6 @@ This project repo has the following:
 - Robust exception handling that reports errors without crashing the bot.
 - Built-in support for easing/tweening functions to create natural, human-like mouse paths.
 - Modular code structure so you can easily swap in new actions (different keys, click patterns, etc.).
-- (To be continued) ...
 
 ## Links
 
@@ -101,6 +100,7 @@ Helpful links that you can use with your project:
 
 ## Licensing
 
-[![License](https://img.shields.io/static/v1?label=License&message=All%20Rights%20Reserved&color=lightgrey&style=for-the-badge)](LICENSE)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
+![cc-by-nc-sa-image](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
 
-"The project is licensed under Custom Proprietary License ("All Rights Reserved") v1.0"
+"The project is licensed under Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) License."
