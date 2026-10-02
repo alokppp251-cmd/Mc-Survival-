@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Mc Survival",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "mc Survival",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
-    "version": "1.20.1",
+    "ip": "McAlok-XBcc.aternos.me",
+    "port": 32259,
+    "version": "1.26.52.3",
     "try-creative": false
   },
   "position": {
